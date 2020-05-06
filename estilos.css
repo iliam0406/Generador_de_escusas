@@ -1,0 +1,57 @@
+body{
+    background-color: royalblue;
+}
+
+.fondo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 62%;
+    background-color: rgb(253, 253, 253);
+    margin: 0 auto;
+    margin-top: 130px;
+}
+
+.fondo-rihgt{
+    margin: 0 auto;
+}
+
+.fondo-left{
+    margin-top: 120px;
+    margin-left: 80px;
+}
+.phara-1{
+    font-size: 22px;
+    font-weight: bold;
+    color: #0071BC;
+}
+
+.logo{
+    width: 120px;
+    height: 120px;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+
+input{
+    background-color: white; 
+    color: #0071BC; 
+    border: 1px solid #0071BC;
+    padding: 10px 50px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin: -8px -2px; 
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+
+input:hover{
+    background-color: #0071BC; 
+    color: white;    
+}
+
+#excuse{
+    font-size: 22px;
+    color: gray;
+}
